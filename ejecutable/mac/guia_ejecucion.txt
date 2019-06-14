@@ -1,0 +1,7 @@
+Ante los problemas presentados en Mac OS X y la no posibilidad de ejcutarlo, hemos encontrado una posible solución:
+
+1.- Abrir el terminal y ejecutar la siguiente orden:
+chmod +x greedy_mac.app/Contents/MacOS/*
+
+El archivo a ejecutar es el .app, que al ser una carpeta, puede dar problemas si no se descomprime con la herramienta por defecto de Apple.
+Por ello, es necesario añadir permisos de ejecución sobre dicha carpeta.

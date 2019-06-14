@@ -1,0 +1,1 @@
+Para iniciar el juego, ejecute "Greedy Game Project.exe".
